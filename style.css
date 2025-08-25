@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+
+  font-family: "Open Sans", sans-serif;
+}
+h1{
+    font-size: 40px;
+    color: black;
+}
+.first{
+    color: coral;
+}
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img{
+  width: 100%;
+  margin: 10%;
+
+}
+.top-banner{
+  background-image: url("images/top-banner.png");
+  background-repeat: no-repeat;
+}
+section{
+  height: 500px;
+}
+.button{
+  color: azure;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color: burlywood;
+  background-image: linear-gradient(orange,tomato);
+  font-weight: bold;border-radius: 5px;
+
+}
+.text-color{
+  color: dimgray;
+  font-size: 12px;
+}
+.second-banner{
+  
+  background-image: url("images/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
